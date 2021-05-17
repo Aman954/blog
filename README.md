@@ -3,3 +3,5 @@
 2. Database files are included.
 3. You need to extract rar file before use.
 4. There are no password so simply extract and use
+5. visit http://amanblogs.byethost16.com for preview
+6. for Admin|Author preview contact me
